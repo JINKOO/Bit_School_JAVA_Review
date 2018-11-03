@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"kr.ac.smu.day01","c":"Document","l":"Document()"},{"p":"kr.ac.smu.day01","c":"Document","l":"RandomNum()"}]
